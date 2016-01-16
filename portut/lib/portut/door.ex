@@ -1,4 +1,4 @@
-defmodule Portal.Door do
+defmodule Portut.Door do
   @doc """
   Starts a door with the given `color`.
 
